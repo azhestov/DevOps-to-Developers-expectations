@@ -117,4 +117,6 @@ DevOps to Developers expectations to the service writed.
   - Temporary compatibility code should be removed in the next release **or** prepared in two sequential releases.
 - **Destructive changes** (dropping fields/tables, mass updates/deletes) should be a separate deployment phase after the main release.
 
-
+License:
+This document is licensed under the GNU General Public License (GPL), allowing free distribution and modification with proper attribution.
+Author: Anatoliy Zhestov
