@@ -12,7 +12,7 @@ DevOps to Developers expectations to the service writed.
 - Link to documentation and API documentation in `README.md`.
 - Contact information of the responsible developer in `README.md`.
 
-> **Example:** Run the following command in a Linux console:
+> **Good example:** Run the following command in a Linux console:
 >
 > ```bash
 > man curl
